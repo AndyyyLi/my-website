@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Andy Li"
+logo = "img/bluelotus.png"
+description = "Andy's personal website"
+copyright = "Duplicatecorrect :eyes:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Andy Li"
+  image = "img/me_fancy.jpg"
+  headline = "UBC Computer Science and Mathematics B+MM Student"
+  bio = "Situationally outgoing code monke."
+  links = [
+    { email = "mailto:andyzli333@gmail.com" },
+    { github = "https://github.com/andyyyli" },
+    { linkedin = "https://linkedin.com/in/andyyyli" }
+  ]
