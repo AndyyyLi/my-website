@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2022-12-08T15:43:17-08:00
-draft: true
+draft: false
 ---
 
 <img src="/img/me.jpg" width="75%" style="border-radius: 5%">

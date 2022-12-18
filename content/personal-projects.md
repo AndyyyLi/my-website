@@ -1,7 +1,7 @@
 ---
 title: "Personal Projects"
 date: 2022-12-10T14:39:25-08:00
-draft: true
+draft: false
 ---
 
 ## [**The Fact-ory**](https://github.com/AndyyyLi/fact-ory "Visit Source")

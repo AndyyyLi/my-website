@@ -1,7 +1,7 @@
 ---
 title: "Work Experience"
 date: 2022-12-10T14:36:37-08:00
-draft: true
+draft: false
 ---
 
 ### **Geek Squad In-Store Agent** - Best Buy Canada Ltd

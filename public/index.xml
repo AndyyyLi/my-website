@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy Li&#39;s Personal Website on Andy Li</title>
+    <link>https://andyyyli.com/</link>
+    <description>Recent content in Andy Li&#39;s Personal Website on Andy Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Duplicatecorrect :eyes:</copyright>
+    <lastBuildDate>Fri, 02 Dec 2022 18:46:42 -0800</lastBuildDate><atom:link href="https://andyyyli.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Projects</title>
+      <link>https://andyyyli.com/personal-projects/</link>
+      <pubDate>Sat, 10 Dec 2022 14:39:25 -0800</pubDate>
+      
+      <guid>https://andyyyli.com/personal-projects/</guid>
+      <description>The Fact-ory&gt;The Fact-ory # HTML, CSS, JavaScript&gt;HTML, CSS, JavaScript # January 2022 - August 2022
+Created a web server using Node Express which stores facts based on numerical keys using MongoDB Ran tests on the communication between the front and back end with Jest Maintained using a request/response and server status tracker, as well as a spreadsheet used to track TODO&amp;rsquo;s and bugs Combatant Creator&gt;Combatant Creator # Java&gt;Java # January 2022 - August 2022</description>
+      
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://andyyyli.com/work-experience/</link>
+      <pubDate>Sat, 10 Dec 2022 14:36:37 -0800</pubDate>
+      
+      <guid>https://andyyyli.com/work-experience/</guid>
+      <description>Geek Squad In-Store Agent - Best Buy Canada Ltd&gt;Geek Squad In-Store Agent - Best Buy Canada Ltd # July 2021 - Present
+Troubleshoot and fix software issues on computeres for customers Set up newly bought computers to ensure proper functionality Managed internal data system to keep track of checked in computers Game Development Intern - Oooh&gt;Game Development Intern - Oooh # September 2022 - November 2022</description>
+      
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://andyyyli.com/about-me/</link>
+      <pubDate>Thu, 08 Dec 2022 15:43:17 -0800</pubDate>
+      
+      <guid>https://andyyyli.com/about-me/</guid>
+      <description>Heya! I&amp;rsquo;m Andy, an undergraduate student at the University of British Columbia. I started playing video games when I was in early elementary school, and I have been playing games ever since.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
