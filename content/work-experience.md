@@ -4,9 +4,18 @@ date: 2022-12-10T14:36:37-08:00
 draft: false
 ---
 
+### **Software Developer in Test** - Teledyne FLIR
+
+*January 2023 - September 2023*
+
+- Helped maintain product software by checking regular test results
+- Updated, improved test suite and benchmarked products against our software
+- Ensured software is ready before each version release by testing all aspects of software
+---
+
 ### **Geek Squad In-Store Agent** - Best Buy Canada Ltd
 
-*July 2021 - Present*
+*July 2021 - May 2023*
 
 - Troubleshoot and fix software issues on computeres for customers
 - Set up newly bought computers to ensure proper functionality
