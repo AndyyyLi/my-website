@@ -17,7 +17,7 @@ draft: false
 
 *July 2021 - May 2023*
 
-- Troubleshoot and fix software issues on computeres for customers
+- Troubleshooted and fixed software issues on computers for customers
 - Set up newly bought computers to ensure proper functionality
 - Managed internal data system to keep track of checked in computers
 ---
