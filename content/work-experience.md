@@ -10,7 +10,7 @@ draft: false
 
 - Helped maintain product software by checking regular test results
 - Updated, improved test suite and benchmarked products against our software
-- Ensured software is ready before each version release by testing all aspects of software
+- Ensured software is ready before each version release
 ---
 
 ### **Geek Squad In-Store Agent** - Best Buy Canada Ltd
