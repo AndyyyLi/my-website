@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## [**The Fact-ory**](https://github.com/AndyyyLi/fact-ory "Visit Source")
-<h1 style="margin: -20px"></h1>
+<!-- <h1 style="margin: -20px"></h1> -->
 
 ### *HTML, CSS, JavaScript*
 *January 2022 - August 2022*
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## [**Combatant Creator**](https://github.com/AndyyyLi/combatant-creator "Visit Source")
-<h1 style="margin: -20px"></h1>
+<!-- <h1 style="margin: -20px"></h1> -->
 
 ### *Java*
 *January 2022 - August 2022*
@@ -29,7 +29,7 @@ draft: false
 ---
 
 ## [**Gear Shift (Animation)**](https://youtu.be/VnWvOObJ1Eg "Watch on Youtube")
-<h1 style="margin: -20px"></h1>
+<!-- <h1 style="margin: -20px"></h1> -->
 
 ### *Adobe After Effects*
 *September 2018 - May 2019*
