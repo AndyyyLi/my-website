@@ -4,7 +4,7 @@ date: 2022-12-10T14:36:37-08:00
 draft: false
 ---
 
-### **Software Developer in Test** - Teledyne FLIR
+### **Software Developer in Test Co-op** - Teledyne FLIR
 
 *January 2023 - September 2023*
 
