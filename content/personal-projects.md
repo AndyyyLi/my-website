@@ -1,7 +1,31 @@
 ---
-title: "Personal Projects"
+title: "Projects"
 date: 2022-12-10T14:39:25-08:00
 draft: false
+---
+
+## [**Bermuda**](https://github.com/AndyyyLi/Bermuda "Visit Source")
+<h1 style="margin: -20px"></h1>
+
+### *C++*
+*September 2024 - December 2024*
+
+- Collaborated in a group of 6 to create a survival shooter using a custom game engine made from OpenGL, CMake, and SDL
+- Implemented the main health and resource system for the game and designed numerous enemies and bosses from scratch
+- Helped team members by checking their code regularly in PRs and helping with bug identification and resolving
+
+---
+
+## [**InsightBot**](https://github.com/AndyyyLi/insightbot "Visit Source")
+<h1 style="margin: -20px"></h1>
+
+### *TypeScript*
+*September 2023 - November 2023*
+
+- Created a query-based Discord bot with a partner which allows users to obtain data about university courses and buildings
+- Generated black box test suite, used facade design pattern to abstract implementations, and refactored to adapt to changes
+- Used REST API to communicate between front and back end and ensured that data is properly transferred to endpoints
+
 ---
 
 ## [**The Fact-ory**](https://github.com/AndyyyLi/fact-ory "Visit Source")
